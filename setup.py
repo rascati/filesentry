@@ -2,12 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name='filesentry',
-    packages=['filesentry']
+    packages=['filesentry'],
     version='0.1.0',
     description='Tool to compare two directories and their contents',
     author='Michael Rascati',
+    author_email='rascatimichael@gmail.com',
     url='https://github.com/rascati/filesentry',
-    download_url = 'https://github.com/rascati/filesentry/archive/0.1.0.tar.gz', # I'll explain this in a second
+    download_url = 'https://github.com/rascati/filesentry/archive/0.1.0.tar.gz',
 
 
     # packages=find_packages(),

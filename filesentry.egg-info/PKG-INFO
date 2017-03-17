@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: filesentry
+Version: 0.1.0
+Summary: Tool to compare two directories and their contents
+Home-page: https://github.com/rascati/filesentry
+Author: Michael Rascati
+Author-email: rascatimichael@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/rascati/filesentry/archive/0.1.0.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN

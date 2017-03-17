@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+filesentry/__init__.py
+filesentry/filesentry.py
+filesentry.egg-info/PKG-INFO
+filesentry.egg-info/SOURCES.txt
+filesentry.egg-info/dependency_links.txt
+filesentry.egg-info/top_level.txt
