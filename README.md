@@ -5,7 +5,7 @@ Command line tool to compare the contents of directories
 **Usage**
 
 ```
-$ filesentry <path-to-directory1> <path-to-directory2> `
+$ filesentry <path-to-directory1> <path-to-directory2>
 ```
 
 Example output
